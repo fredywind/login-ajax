@@ -27,9 +27,11 @@
       <div class="w3-col w3-container m3"></div>
       <div class="w3-col w3-container m6">
           <div id="pesan" ></div>
-        
+          
+
           
           <div class="w3-center">
+            <p>Hello, Selamat Datang. Anda Berhasil Login</p>
             <button class="w3-blue w3-section">LOGOUT</button>
           </div>
 
