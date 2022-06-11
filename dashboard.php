@@ -32,7 +32,7 @@
           
           <div class="w3-center">
             <p>Hello, Selamat Datang. Anda Berhasil Login</p>
-            <button class="w3-blue w3-section">LOGOUT</button>
+            <button class="w3-blue w3-section" onclick="javascript">LOGOUT</button>
           </div>
 
         
