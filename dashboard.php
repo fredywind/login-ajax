@@ -31,6 +31,7 @@
 
           
           <div class="w3-center">
+            <p>Hello, Selamat Datang. Anda Berhasil Loginn</p>
             <p>Hello, Selamat Datang. Anda Berhasil Login</p>
             <p>Hello saya bergabung</p>
             <p>Hello, Selamat Datang. Herman Anda Berhasil Login</p>
