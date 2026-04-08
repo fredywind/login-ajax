@@ -32,6 +32,7 @@
           
           <div class="w3-center">
             <p>Hello, Selamat Datang. Anda Berhasil Login</p>
+            <p>Hello, kami bergabung</p>
             <button class="w3-blue w3-section">LOGOUT</button>
           </div>
 
